@@ -200,5 +200,3 @@ For details about the processing pipeline, see [Architecture](docs/ARCHITECTURE.
 ## Portfolio context
 
 This project demonstrates fundamentals of **computer architecture, low-level C, peripheral interaction, framebuffer-based graphics, bit manipulation and embedded image processing** on a RISC-V platform.
-
-> Note: If this project originated in a university lab, review your course's publication rules before uploading the lab-provided image, startup files, or other third-party assets.
